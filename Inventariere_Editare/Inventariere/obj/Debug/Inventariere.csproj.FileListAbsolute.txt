@@ -1,0 +1,42 @@
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\bin\Debug\Database1.mdf
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\bin\Debug\Database1_log.ldf
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\bin\Debug\Inventariere.exe.config
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\bin\Debug\Inventariere.exe
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\bin\Debug\Inventariere.pdb
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.csprojAssemblyReference.cache
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.Form1.resources
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.Properties.Resources.resources
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.csproj.GenerateResource.cache
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.csproj.CoreCompileInputs.cache
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.exe
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.pdb
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.Autentificare.resources
+C:\Users\talambutad\Desktop\Inventariere\Inventariere\obj\Debug\Inventariere.Inregistrare_bunuri.resources
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\bin\Debug\Database1.mdf
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\bin\Debug\Database1_log.ldf
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\bin\Debug\Inventariere.exe.config
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\bin\Debug\Inventariere.exe
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\bin\Debug\Inventariere.pdb
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Autentificare.resources
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Inregistrare_bunuri.resources
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.exe
+C:\Users\Tatiana Spatari\Desktop\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.pdb
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\bin\Debug\Database1.mdf
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\bin\Debug\Database1_log.ldf
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\bin\Debug\Inventariere.exe.config
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\bin\Debug\Inventariere.exe
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\bin\Debug\Inventariere.pdb
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Autentificare.resources
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Inregistrare_bunuri.resources
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.exe
+C:\Users\Tatiana Spatari\Desktop\Proiect Conturi Contabile\Inventariere_Editare\Inventariere\obj\Debug\Inventariere.pdb
